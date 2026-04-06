@@ -1,0 +1,66 @@
+{
+    "variable": "değişken",
+    "function": "fonksiyon",
+    "condition": "koşul",
+    "loop": "döngü",
+    "inheritance": "kalıtım",
+    
+    
+    
+    "security": "güvenlik",
+    "development": "geliştirme",
+    
+    
+    "debug": "hata ayıklamak",
+    "syntax": "sözdizimi",
+    "integer": "tam sayı",
+    "string": "metin dizisi",
+    
+    "terminal": "uçbirim",
+    "cache": "önbellek",
+    
+    "algorithm" : "algoritma",
+    "compiler": "derleyici",
+    "database": "veri tabanı",
+    "encryption": "şifreleme",
+    "hardware": "donanım",
+    "software": "yazılım",
+    "network": "ağ",
+    "server": "sunucu",
+    "storage": "depolama",
+    "virtualization": "sanallaştırma",
+    
+    
+    "vulnerability": "güvenlik açığı",
+    "exploit": "istismar etmek / açık kullanma",
+    "malware": "kötü amaçlı yazılım",
+    "firewall": "güvenlik duvarı",
+    "authentication": "kimlik doğrulama",
+    "authorization": "yetkilendirme",
+    "phishing": "oltalama",
+    "brute force": "kaba kuvvet saldırısı",
+    "payload": "faydalı yük (saldırı verisi)",
+    "backdoor": "arka kapı",
+    "ransomware": "fidye yazılımı",
+    "spyware": "casus yazılım",
+    "penetration test": "sızma testi",
+    "incident response": "olaya müdahale",
+    
+    
+    "protocol": "protokol",
+    "packet sniffing": "paket izleme",
+    "proxy": "vekil sunucu",
+    "gateway": "geçit yolu",
+    "handshake": "el sıkışma",
+    "bandwidth": "bant genişliği",
+    "latency": "gecikme süresi",
+    
+    
+    "decryption": "şifre çözme",
+    "hash": "özet / karma",
+    "cipher": "şifreleme algoritması",
+    "digital signature": "dijital imza",
+    "public key": "genel anahtar",
+    "private key": "özel anahtar"
+}
+
